@@ -10,7 +10,7 @@ System.out.println("#############################");
 hello=4;
 if(hello<5)
 {
-System.out.println("hello this inside if ");
+ystem.out.println("hello this inside if ");
 }else
 {
 System.out.println("hello this is inside else");
